@@ -1,5 +1,5 @@
 fastapi
 uvicorn
 requests
-python-telegram-bot
+pyTelegramBotAPI
 curl_cffi
