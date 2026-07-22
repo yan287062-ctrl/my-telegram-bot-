@@ -6,7 +6,7 @@ import requests
 from datetime import datetime
 
 
-TOKEN = "8781192251:AAEEcRpO1Q5TUwpKtk2g_Hb9XereR_oV3Vg"
+TOKEN = "8781192251:AAGIVdx7JcbD8hCqdMQrZpHu-wb-OSy-3Bc"
 bot = telebot.TeleBot(TOKEN)
 
 # Check if user is a group admin or in private chat
